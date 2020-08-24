@@ -1,1 +1,1 @@
-# function-app-basic-training
+The purpose of this project is to be material of reference for delivering a Function Apps training by using some triggers that Azure provides. 
